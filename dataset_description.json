@@ -15,5 +15,7 @@
         "European Research Council Grant 759659",
         "COLCIENCIAS scholarship 646, 2014"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds001927.v2.0.0"
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1101/639237"
+    ]
 }
