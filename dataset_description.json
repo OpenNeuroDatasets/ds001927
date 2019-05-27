@@ -1,5 +1,4 @@
 {
-    "id": "HEAD",
     "Name": "The physiological effects of non-invasive brain stimulation fundamentally differ across the human cortex",
     "BIDSVersion": "1.0.1",
     "License": "CC0",
@@ -16,5 +15,6 @@
         "European Research Council Grant 759659",
         "COLCIENCIAS scholarship 646, 2014"
     ],
-    "HowToAcknowledge": "Castrillón, G., Sollmann, N., Kurcyus, K., Razi, A., Krieg, S. M. and Riedl, V. (2019). The physiological effects of non-invasive brain stimulation fundamentally differ across the human cortex. bioRxiv. eprint (https://doi.org/10.1101/639237)"
+    "HowToAcknowledge": "Castrillón, G., Sollmann, N., Kurcyus, K., Razi, A., Krieg, S. M. and Riedl, V. (2019). The physiological effects of non-invasive brain stimulation fundamentally differ across the human cortex. bioRxiv. [eprint](https://doi.org/10.1101/639237)",
+    "ReferencesAndLinks": []
 }
